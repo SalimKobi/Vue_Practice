@@ -4,6 +4,7 @@ var app = new Vue ({
         product:"Socks",
         image: 'assets/vmSocks-green-onWhite.jpeg',
         link: 'https://kippa.africa/',
-        inventory: 
+        inventory: 8,
+        details: ["80% cotton", "20% polyster","Gender Neutral" ]
     }
 });
